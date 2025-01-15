@@ -2,8 +2,8 @@ Archivo readme creado con git por Sergio Alonso Revueltas
 
 <table>
 	<tr>
-		<td>NOMBRE</td>
-		<td>GITHUB</td>
+		<th>NOMBRE</th>
+		<th>GITHUB</th>
 	</tr>
 
 	<tr>
